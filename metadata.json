@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Drive and Sites Publisher",
+  "description": "Easily connect Google Drive and upload documents directly into Google Sites with beautiful professional templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
